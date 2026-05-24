@@ -13,11 +13,13 @@
   "type": "module",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "handlebars": "^4.7.9",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.6.2",
-    "nodemailer": "^8.0.7"
+    "nodemailer": "^8.0.7",
+    "yup": "^1.7.1"
   }
 }
